@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: text-summeraization
+Version: 0.0.0
+Summary: A small python package for Nlp app
+Home-page: https://github.com/kadmanikanta/TEXT_SUMMARIZER
+Author: kadmanikanta
+Author-email: kadambamanikanta311@gmail.com
+Project-URL: Bug Tracker, https://github.com/kadmanikanta/TEXT_SUMMARIZER/issues
+License-File: LICENSE
