@@ -1,3 +1,3 @@
-from text_summeraization.logging import logger
+from textSummarizer.logging import logger
 
 logger.info("welcome to custum logging")
